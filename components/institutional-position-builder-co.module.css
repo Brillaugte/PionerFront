@@ -1,0 +1,45 @@
+.fortis9Institutional {
+  position: absolute;
+  width: 92.13%;
+  top: 11.15px;
+  left: 3.94%;
+  display: inline-block;
+  height: 61.3px;
+}
+.groupChild {
+  position: absolute;
+  width: 86.5%;
+  top: 79px;
+  right: 6.75%;
+  left: 6.75%;
+  max-width: 100%;
+  overflow: hidden;
+  height: 216px;
+  object-fit: cover;
+}
+.image44Icon,
+.instanceParent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 311px;
+  height: 356px;
+}
+.image44Icon {
+  top: 79px;
+  left: 21px;
+  width: 269px;
+  height: 216px;
+  object-fit: cover;
+}
+.groupParent {
+  position: absolute;
+  top: 0;
+  left: 1059px;
+  width: 311px;
+  height: 356px;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--linear);
+  font-family: var(--smalmedium);
+}

@@ -1,0 +1,28 @@
+.limit {
+  color: var(--color-gainsboro-100);
+}
+.market {
+  text-decoration: underline;
+}
+.limitMarketContainer {
+  position: absolute;
+  top: 15px;
+  left: 33px;
+  display: inline-block;
+  font-weight: 600;
+  width: 137px;
+  height: 30px;
+}
+.property1variant2 {
+  position: absolute;
+  top: 90px;
+  left: 20px;
+  background-color: var(--white);
+  width: 203px;
+  height: 50px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--linear);
+  font-family: var(--swap);
+}

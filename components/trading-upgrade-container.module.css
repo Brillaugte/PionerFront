@@ -1,0 +1,270 @@
+.card10Child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--white);
+}
+.upgradeYourTrading {
+  position: absolute;
+  height: 17.22%;
+  width: 92.13%;
+  top: 3.97%;
+  left: 3.94%;
+  font-size: var(--font-size-lg);
+  display: inline-block;
+}
+.image12Icon {
+  position: absolute;
+  height: 71.44%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 28.56%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.omnimarginMultiAssetCross {
+  position: absolute;
+  height: 24.65%;
+  width: 97.98%;
+  top: 75.35%;
+  left: 0.27%;
+  display: inline-block;
+}
+.image12Parent {
+  position: absolute;
+  height: 32.24%;
+  width: 42.99%;
+  top: 21.07%;
+  right: 53.18%;
+  bottom: 46.69%;
+  left: 3.82%;
+  font-family: var(--smalmedium);
+}
+.image13Icon {
+  position: absolute;
+  height: 71.44%;
+  width: 99.92%;
+  top: 0;
+  right: 0;
+  bottom: 28.56%;
+  left: 0.08%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.flexicollatUniversalToken {
+  position: absolute;
+  height: 24.65%;
+  width: 97.9%;
+  top: 75.35%;
+  left: 0;
+  display: inline-block;
+}
+.image13Parent {
+  position: absolute;
+  height: 32.24%;
+  width: 43.03%;
+  top: 21.07%;
+  right: 3.82%;
+  bottom: 46.69%;
+  left: 53.15%;
+  font-family: var(--smalmedium);
+}
+.image14Icon {
+  position: absolute;
+  height: 68.75%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 31.25%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.liquinowInstantOnDemand {
+  position: absolute;
+  height: 23.72%;
+  width: 97.98%;
+  top: 76.28%;
+  left: 0.27%;
+  display: inline-block;
+}
+.image14Parent {
+  position: absolute;
+  height: 33.51%;
+  width: 42.99%;
+  top: 55.9%;
+  right: 53.18%;
+  bottom: 10.6%;
+  left: 3.82%;
+  font-family: var(--smalmedium);
+}
+.image15Icon {
+  position: absolute;
+  height: 68.75%;
+  width: 99.92%;
+  top: 0;
+  right: 0;
+  bottom: 31.25%;
+  left: 0.08%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.accpAutomated {
+  position: absolute;
+  height: 23.72%;
+  width: 97.9%;
+  top: 76.28%;
+  left: 0;
+  display: inline-block;
+}
+.image15Parent {
+  position: absolute;
+  height: 33.51%;
+  width: 43.03%;
+  top: 55.9%;
+  right: 3.82%;
+  bottom: 10.6%;
+  left: 53.15%;
+}
+.learnNow {
+  position: absolute;
+  height: 7.95%;
+  width: 42.13%;
+  top: 92.05%;
+  left: 3.94%;
+  color: var(--color-steelblue);
+  display: inline-block;
+}
+.image40Icon,
+.image41Icon,
+.image42Icon,
+.image43Icon {
+  position: absolute;
+  height: 23.03%;
+  width: 42.99%;
+  top: 21.07%;
+  right: 53.18%;
+  bottom: 55.9%;
+  left: 3.82%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.image41Icon,
+.image42Icon,
+.image43Icon {
+  height: 24.16%;
+  top: 55.9%;
+  bottom: 19.94%;
+}
+.image41Icon,
+.image43Icon {
+  right: 3.82%;
+  left: 53.18%;
+}
+.image41Icon {
+  height: 23.03%;
+  top: 21.07%;
+  bottom: 55.9%;
+}
+.card10Parent {
+  position: absolute;
+  height: 100%;
+  width: 31.15%;
+  top: 0;
+  right: 68.85%;
+  bottom: 0;
+  left: 0;
+  cursor: pointer;
+  font-size: var(--small-size);
+}
+.pionerPnrUtility {
+  position: absolute;
+  height: 17.22%;
+  width: 92.13%;
+  top: 3.13%;
+  left: 3.94%;
+  display: inline-block;
+}
+.groupChild {
+  position: absolute;
+  height: 60.67%;
+  width: 86.5%;
+  top: 22.19%;
+  right: 6.43%;
+  bottom: 17.13%;
+  left: 7.07%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.instanceParent {
+  position: absolute;
+  height: 100%;
+  width: 30.85%;
+  top: 0;
+  right: 34.43%;
+  bottom: 0;
+  left: 34.72%;
+  cursor: pointer;
+}
+.image40Icon1,
+.instanceGroup {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.image40Icon1 {
+  height: 60.67%;
+  width: 86.5%;
+  top: 22.19%;
+  right: 6.88%;
+  bottom: 17.13%;
+  left: 6.63%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.groupContainer {
+  position: absolute;
+  height: 100%;
+  width: 30.85%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 69.15%;
+  cursor: pointer;
+  font-family: var(--smalmedium);
+}
+.groupParent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 978.25px;
+  height: 356px;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--linear);
+  font-family: var(--swap);
+}

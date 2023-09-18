@@ -1,0 +1,22 @@
+.p {
+  margin: 0;
+}
+.effectiveDate17Container {
+  position: absolute;
+  top: 98px;
+  left: 40px;
+  display: inline-block;
+  width: 1349px;
+  height: 272px;
+}
+.privacyPolicy {
+  position: relative;
+  background-color: var(--color-lavenderblush);
+  width: 100%;
+  height: 2568px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--small-size);
+  color: var(--linear);
+  font-family: var(--smalmedium);
+}

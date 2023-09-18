@@ -1,0 +1,151 @@
+.navigationBar1Child {
+  position: relative;
+  background-color: var(--linear);
+  width: 1440px;
+  height: 70px;
+  z-index: 0;
+}
+.pioner,
+.pionerWrapper {
+  position: absolute;
+  width: 87px;
+  height: 34px;
+}
+.pioner {
+  top: 0;
+  left: 0;
+  display: inline-block;
+}
+.pionerWrapper {
+  top: 36px;
+  left: 8px;
+}
+.groupContainer,
+.ideogram375 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.ideogram375 {
+  width: 52px;
+  height: 45px;
+  object-fit: cover;
+}
+.groupContainer {
+  width: 95px;
+  height: 70px;
+  cursor: pointer;
+}
+.groupChild,
+.rectangleWrapper {
+  position: absolute;
+  top: 0;
+  width: 45px;
+  height: 40px;
+}
+.groupChild {
+  left: calc(50% - 22.5px);
+  border-radius: 0 var(--br-8xs) var(--br-8xs) 0;
+  background-color: var(--color-lavenderblush);
+}
+.rectangleWrapper {
+  left: calc(50% + 281.5px);
+}
+.frameChild {
+  position: relative;
+  border-radius: var(--br-8xs);
+  background-color: var(--extra-colors-dark-coal-dark-coal-200);
+  width: 653px;
+  height: 40px;
+  z-index: 0;
+}
+.frameItem {
+  position: absolute;
+  margin: 0 !important;
+  width: 83.77%;
+  top: 1px;
+  right: 6.89%;
+  left: 9.34%;
+  background-color: var(--white);
+  height: 38px;
+  z-index: 1;
+}
+.all {
+  position: relative;
+}
+.allCategoriesChild {
+  position: relative;
+  width: 12.99px;
+  height: 7.5px;
+}
+.allCategories {
+  top: 10px;
+  left: calc(50% - 312.5px);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-12xs);
+  z-index: 2;
+}
+.allCategories,
+.searchPionerio,
+.searchSymbolIcon {
+  position: absolute;
+  margin: 0 !important;
+}
+.searchPionerio {
+  top: 14px;
+  left: calc(50% - 256.5px);
+  font-size: var(--smalmedium-size);
+  color: var(--gray-color-tinted-gray);
+  z-index: 3;
+}
+.searchSymbolIcon {
+  top: 12px;
+  right: 14px;
+  width: 17px;
+  height: 16.08px;
+  z-index: 4;
+}
+.rectangleParent {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 326.5px);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+  cursor: pointer;
+}
+.groupDiv {
+  position: absolute;
+  top: 15px;
+  left: calc(50% - 171px);
+  width: 653px;
+  height: 40px;
+  font-size: var(--font-size-mini);
+  color: var(--color-gray-100);
+}
+.groupParent {
+  position: absolute;
+  margin: 0 !important;
+  top: 4px;
+  left: 83px;
+  width: 964px;
+  height: 70px;
+  z-index: 1;
+}
+.navigationBar1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+  gap: var(--gap-3xs);
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--white);
+  font-family: var(--smalmedium);
+}

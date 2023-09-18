@@ -1,0 +1,96 @@
+.k,
+.kWrapper {
+  position: absolute;
+  width: 132.28px;
+  height: 28.37px;
+}
+.k {
+  top: 0;
+  left: calc(50% - 66.14px);
+  display: inline-block;
+}
+.kWrapper {
+  top: 243.72px;
+  left: calc(50% - 626px);
+  font-size: var(--small-size);
+}
+.card10Child {
+  background-color: var(--white);
+}
+.card10,
+.card10Child {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 680px);
+  width: 1360px;
+  height: 271.8px;
+}
+.image16Icon,
+.image46Icon,
+.image49Icon {
+  position: relative;
+  width: 220px;
+  height: 200.59px;
+  object-fit: cover;
+}
+.image46Icon,
+.image49Icon {
+  width: 219px;
+}
+.image49Icon {
+  width: 220px;
+  cursor: pointer;
+}
+.image16Parent {
+  position: absolute;
+  top: 20.63px;
+  left: 20px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-31xl);
+}
+.ratexDynamicInterest,
+.securenetBlockchainDerivati {
+  position: absolute;
+  top: 234.69px;
+  left: calc(50% - 650px);
+  display: inline-block;
+  width: 220px;
+  height: 36.11px;
+}
+.securenetBlockchainDerivati {
+  left: calc(50% - 379px);
+  width: 219px;
+}
+.binaryOption,
+.creditsphereSafeguardingCre,
+.fundtrakDecentralizedEtf {
+  position: absolute;
+  top: 234.69px;
+  left: calc(50% - 110px);
+  display: inline-block;
+  width: 220px;
+  height: 36.11px;
+}
+.binaryOption,
+.fundtrakDecentralizedEtf {
+  left: calc(50% + 161px);
+  width: 219px;
+}
+.binaryOption {
+  left: calc(50% + 430px);
+  cursor: pointer;
+}
+.groupParent {
+  position: absolute;
+  top: 1145.37px;
+  left: calc(50% - 670px);
+  width: 1360px;
+  height: 272.09px;
+  text-align: left;
+  font-size: var(--smalmedium-size);
+  color: var(--linear);
+  font-family: var(--smalmedium);
+}

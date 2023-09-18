@@ -1,0 +1,34 @@
+.switchChild {
+  position: relative;
+  border-radius: 50%;
+  background-color: var(--white);
+  width: 12px;
+  height: 12px;
+}
+.switch {
+  border-radius: var(--br-base);
+  background-color: var(--main-colors-gray-1);
+  width: 28px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-11xs);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-start;
+}
+.label {
+  position: relative;
+  letter-spacing: -0.05em;
+  line-height: 100%;
+}
+.stateoffStylemainLabelo {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-8xs);
+  text-align: left;
+  font-size: var(--p1-gotham-book-active-left-size);
+  color: var(--linear);
+  font-family: var(--smalmedium);
+}

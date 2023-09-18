@@ -1,0 +1,15 @@
+.amazonbasedframe {
+  position: absolute;
+  top: 85px;
+  left: 1642px;
+  border-radius: var(--br-8xs);
+  border: 1px dashed var(--color-blueviolet);
+  box-sizing: border-box;
+  width: 351px;
+  height: 1148px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--linear);
+  font-family: var(--swap);
+}

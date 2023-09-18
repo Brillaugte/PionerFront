@@ -1,0 +1,125 @@
+.bottombarChild {
+  position: absolute;
+  height: 34.04%;
+  width: 100%;
+  top: 65.43%;
+  right: 0;
+  bottom: 0.53%;
+  left: 0;
+  background-color: var(--linear);
+}
+.microderivLlc,
+.privacyPolicy,
+.termsOfUse {
+  position: absolute;
+  display: inline-block;
+  width: 170px;
+}
+.microderivLlc {
+  bottom: 10px;
+  left: 65px;
+  height: 26px;
+}
+.privacyPolicy,
+.termsOfUse {
+  height: 14.89%;
+  top: 78.72%;
+  left: calc(50% - 180px);
+  cursor: pointer;
+}
+.termsOfUse {
+  left: calc(50% + 85px);
+}
+.socialIcons,
+.socialIcons1 {
+  position: relative;
+  width: 31.14px;
+  height: 32px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.socialIcons1 {
+  width: 32px;
+}
+.socialIconsParent {
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: var(--gap-20xl);
+}
+.bottombarInner,
+.frameContainer,
+.frameWrapper,
+.socialIconsParent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frameContainer {
+  width: 258px;
+  height: 32px;
+  flex-direction: row;
+}
+.bottombarInner,
+.frameWrapper {
+  flex-direction: column;
+  padding: var(--padding-3xs);
+}
+.bottombarInner {
+  position: absolute;
+  right: 45px;
+  bottom: -7px;
+  height: 79px;
+  box-sizing: border-box;
+}
+.ideogram374 {
+  position: relative;
+  width: 50px;
+  height: 68px;
+  object-fit: cover;
+}
+.pioner {
+  position: relative;
+  display: inline-block;
+  width: 254px;
+  height: 82px;
+  flex-shrink: 0;
+  margin-top: -18px;
+}
+.ideogram374Parent {
+  position: absolute;
+  top: 16.5px;
+  left: 59px;
+  width: 104px;
+  height: 91px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.contactUs {
+  position: absolute;
+  top: 43px;
+  left: 643px;
+  cursor: pointer;
+}
+.bottombar,
+.frameParent {
+  position: absolute;
+  left: 0;
+  width: 1440px;
+}
+.frameParent {
+  top: 3px;
+  background-color: var(--color-dimgray);
+  height: 123px;
+  overflow: hidden;
+  font-size: var(--font-size-13xl);
+}
+.bottombar {
+  top: 0;
+  height: 188px;
+  text-align: left;
+  font-size: var(--p1-gotham-book-active-left-size);
+  color: var(--white);
+  font-family: var(--smalmedium);
+}

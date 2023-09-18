@@ -1,0 +1,19 @@
+.stateoffStyleborderLabelChild {
+  position: relative;
+  border-radius: 50%;
+  background-color: var(--white);
+  width: 12px;
+  height: 12px;
+}
+.stateoffStyleborderLabel {
+  border-radius: var(--br-base);
+  background-color: var(--main-colors-gray-1);
+  border: 2px solid var(--main-colors-green-3);
+  box-sizing: border-box;
+  width: 32px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-11xs);
+  align-items: center;
+  justify-content: flex-start;
+}

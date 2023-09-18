@@ -1,0 +1,22 @@
+.open {
+  position: absolute;
+  top: 10px;
+  left: 46px;
+  display: inline-block;
+  font-weight: 600;
+  width: 111px;
+  height: 30px;
+}
+.property1variant3 {
+  position: absolute;
+  top: 160px;
+  left: 20px;
+  background-color: var(--white);
+  width: 203px;
+  height: 50px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--linear);
+  font-family: var(--swap);
+}

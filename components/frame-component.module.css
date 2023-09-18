@@ -1,0 +1,18 @@
+.positions {
+  position: absolute;
+  top: 4px;
+  left: 7px;
+  font-weight: 500;
+  display: inline-block;
+  width: 90px;
+  height: 21px;
+}
+.positionsParent {
+  width: 101px;
+  height: 25px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--linear);
+  font-family: var(--swap);
+}

@@ -1,0 +1,80 @@
+.card4Child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  width: 275px;
+  height: 33px;
+}
+.connectWallet {
+  position: absolute;
+  top: 6px;
+  left: 28px;
+  display: inline-block;
+  width: 289.28px;
+  height: 20.66px;
+}
+.card4,
+.cardSection {
+  width: 317.28px;
+  height: 33px;
+}
+.card4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.cardSection {
+  position: relative;
+  z-index: 0;
+}
+.swapsAndOptions {
+  margin: 0;
+}
+.swapsAndOptionsContainer {
+  position: absolute;
+  top: 26px;
+  left: 9px;
+  display: inline-block;
+  width: 234px;
+  height: 92px;
+}
+.swapsAndOptionsFromTopExcWrapper {
+  position: absolute;
+  margin: 0 !important;
+  top: 90px;
+  left: 0;
+  background: linear-gradient(
+      0deg,
+      rgba(0, 0, 0, 0.2) 87.5%,
+      rgba(212, 236, 173, 0.2)
+    ),
+    linear-gradient(90deg, #7fe3af, #dff8b6);
+  width: 252px;
+  height: 144px;
+  z-index: 1;
+  text-align: center;
+  font-size: var(--font-size-3xl);
+  font-family: var(--smalmedium);
+}
+.cardSectionParent {
+  position: absolute;
+  top: 45px;
+  left: 1036px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.frameParent {
+  position: absolute;
+  top: 344px;
+  left: 66px;
+  width: 1353.28px;
+  height: 356px;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--linear);
+  font-family: var(--swap);
+}

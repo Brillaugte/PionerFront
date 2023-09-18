@@ -1,0 +1,71 @@
+.instanceWrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 311px;
+  height: 356px;
+}
+.property1variant3Inner {
+  position: relative;
+  width: 311px;
+  height: 356px;
+  z-index: 0;
+}
+.inflaguardLive {
+  align-self: stretch;
+  position: relative;
+  display: inline-block;
+  height: 61px;
+  flex-shrink: 0;
+}
+.image40Icon {
+  position: relative;
+  width: 269px;
+  height: 216px;
+  object-fit: cover;
+}
+.frameWrapper,
+.inflaguardLiveOnTestnetParent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frameWrapper {
+  align-items: flex-start;
+}
+.seeMore {
+  position: relative;
+  font-size: var(--small-size);
+  color: var(--color-steelblue);
+}
+.frameParent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  gap: var(--gap-21xl);
+}
+.property1variant3,
+.property1variant3Child {
+  position: absolute;
+  left: 20px;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.property1variant3Child {
+  margin: 0 !important;
+  top: 11px;
+  flex-direction: column;
+  z-index: 1;
+}
+.property1variant3 {
+  top: 772px;
+  flex-direction: row;
+  gap: var(--gap-3xs);
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--linear);
+  font-family: var(--swap);
+}

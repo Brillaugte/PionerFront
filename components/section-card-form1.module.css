@@ -1,0 +1,73 @@
+.image53Icon {
+  position: relative;
+  width: 216px;
+  height: 200px;
+  object-fit: cover;
+}
+.image49Icon {
+  cursor: pointer;
+}
+.image49Icon,
+.image50Icon,
+.image52Icon {
+  position: relative;
+  width: 220px;
+  height: 200px;
+  object-fit: cover;
+}
+.image50Icon {
+  width: 219px;
+}
+.image53Parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-31xl);
+}
+.frameWrapper {
+  position: relative;
+  width: 1291px;
+  height: 200px;
+}
+.fundifyInvestmentFunds {
+  position: relative;
+  display: inline-block;
+  width: 220px;
+  height: 36.11px;
+  flex-shrink: 0;
+}
+.zeroliqLiquidationFreeTrad {
+  cursor: pointer;
+}
+.quickstrikeOneClickTrading,
+.zeroliqLiquidationFreeTrad {
+  position: relative;
+  display: inline-block;
+  width: 219px;
+  height: 36.11px;
+  flex-shrink: 0;
+}
+.fundifyInvestmentFundsTokParent,
+.groupParent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-31xl);
+}
+.groupParent {
+  position: absolute;
+  top: 26px;
+  left: 45px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--gap-4xs);
+  text-align: left;
+  font-size: var(--smalmedium-size);
+  color: var(--linear);
+  font-family: var(--smalmedium);
+}

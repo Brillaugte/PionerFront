@@ -1,0 +1,51 @@
+.label {
+  position: absolute;
+  top: 6px;
+  left: 16px;
+  display: flex;
+  align-items: center;
+  width: 664px;
+  height: 20px;
+}
+.textField {
+  position: relative;
+  background-color: var(--color-whitesmoke-100);
+  width: 696px;
+  height: 32px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.textField1 {
+  cursor: pointer;
+}
+.textField1,
+.textField4 {
+  position: relative;
+  background-color: var(--white);
+  width: 696px;
+  height: 32px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.textFieldParent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.autosuggestionHover {
+  background-color: var(--white);
+  width: 546px;
+  height: 131px;
+  overflow: hidden;
+  max-width: 100%;
+  max-height: 100%;
+  text-align: left;
+  font-size: var(--p1-gotham-book-active-left-size);
+  color: var(--linear);
+  font-family: var(--smalmedium);
+}

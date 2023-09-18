@@ -1,0 +1,75 @@
+.exodeployYourOwn {
+  position: absolute;
+  width: 92.13%;
+  top: 11.15px;
+  left: 3.94%;
+  display: inline-block;
+  height: 61.3px;
+}
+.groupChild,
+.image42Icon {
+  position: absolute;
+  top: 79px;
+  height: 216px;
+  object-fit: cover;
+}
+.groupChild {
+  width: 86.5%;
+  right: 6.75%;
+  left: 6.75%;
+  max-width: 100%;
+  overflow: hidden;
+}
+.image42Icon {
+  left: 21px;
+  width: 269px;
+}
+.groupContainer,
+.image43Icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 311px;
+  height: 356px;
+}
+.image43Icon {
+  top: 79px;
+  left: 20px;
+  width: 269px;
+  height: 216px;
+  object-fit: cover;
+}
+.frameChild,
+.groupDiv {
+  position: absolute;
+  top: 0;
+  height: 356px;
+}
+.groupDiv {
+  left: 352px;
+  width: 311px;
+}
+.frameChild {
+  left: calc(50% + 19px);
+  width: 314px;
+}
+.botmartPionerAutomation {
+  position: absolute;
+  height: 7.95%;
+  width: 9.37%;
+  top: 47.19%;
+  left: 52.48%;
+  font-size: var(--small-size);
+  display: inline-block;
+}
+.groupParent {
+  position: absolute;
+  top: 1474px;
+  left: 50px;
+  width: 1370px;
+  height: 356px;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--linear);
+  font-family: var(--smalmedium);
+}

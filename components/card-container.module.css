@@ -1,0 +1,50 @@
+.property1variant3Child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background: radial-gradient(
+      50% 50%at 50% 50%,
+      rgba(62, 113, 132, 0.2),
+      rgba(255, 255, 255, 0)
+    ),
+    radial-gradient(50% 50%at 50% 50%, #4f8396, rgba(71, 128, 145, 0)),
+    linear-gradient(180deg, #2e4c57 48.81%, #eaedee 85.42%, #eaedee);
+}
+.blankLine {
+  margin: 0;
+}
+.publicSaleLiveContainer {
+  position: absolute;
+  height: 20.55%;
+  width: 23.26%;
+  top: 7.93%;
+  left: 54.24%;
+  display: inline-block;
+}
+.vectorIcon {
+  position: absolute;
+  height: 18.28%;
+  width: 8.4%;
+  top: 12.78%;
+  right: 50.9%;
+  bottom: 68.93%;
+  left: 40.69%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.property1variant3 {
+  position: absolute;
+  top: 1296px;
+  left: 20px;
+  width: 1440px;
+  height: 618px;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--white);
+  font-family: var(--smalmedium);
+}

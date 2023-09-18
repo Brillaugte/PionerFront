@@ -1,0 +1,15 @@
+.limitmarket {
+  position: absolute;
+  top: 261px;
+  left: 333px;
+  border-radius: var(--br-8xs);
+  border: 1px dashed var(--color-blueviolet);
+  box-sizing: border-box;
+  width: 243px;
+  height: 300px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--linear);
+  font-family: var(--swap);
+}
